@@ -1,0 +1,22 @@
+======================================================
+ OUT-OF-SAMPLE EVALUATION REPORT: Random_Forest
+======================================================
+Test Sample Size: 264 trading days
+
+--- Return Prediction Performance ---
+* Log Return RMSE:          0.021031
+* Log Return MAE:           0.014574
+* Predicted vs True Corr:   +0.0179
+
+--- Price Forecast Performance ---
+* Next-Day Price RMSE:      $9.13
+* Next-Day Price MAE:       $6.40
+* Next-Day Price MAPE:      1.46%
+* Naive Persistence MAE:    $6.00
+
+--- Directional Trading Metrics ---
+* Directional Accuracy:     45.83% (Hit Rate)
+* Majority Class Baseline:  50.76%
+* Up-Market Precision:      47.59%
+* Up-Market Recall:         66.42%
+======================================================

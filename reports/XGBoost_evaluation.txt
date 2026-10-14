@@ -1,0 +1,22 @@
+======================================================
+ OUT-OF-SAMPLE EVALUATION REPORT: XGBoost
+======================================================
+Test Sample Size: 302 trading days
+
+--- Return Prediction Performance ---
+* Log Return RMSE:          0.007875
+* Log Return MAE:           0.005995
+* Predicted vs True Corr:   -0.0292
+
+--- Price Forecast Performance ---
+* Next-Day Price RMSE:      $5.47
+* Next-Day Price MAE:       $4.18
+* Next-Day Price MAPE:      0.60%
+* Naive Persistence MAE:    $4.14
+
+--- Directional Trading Metrics ---
+* Directional Accuracy:     51.32% (Hit Rate)
+* Majority Class Baseline:  52.98%
+* Up-Market Precision:      52.86%
+* Up-Market Recall:         75.00%
+======================================================

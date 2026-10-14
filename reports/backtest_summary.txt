@@ -1,0 +1,23 @@
+======================================================
+ STRATEGY BACKTEST RESULTS (Out-of-Sample)
+======================================================
+Trading Duration:         302 days (~1.2 years)
+Initial Capital:          $10,000.00
+Transaction Fee Model:    0.10% per execution
+
+--- Portfolio Performance ---
+* Final Strategy Value:   $9,022.74 (-9.77%)
+* Final Benchmark Value:  $12,642.01 (+26.42%)
+* Strategy CAGR:          -8.22% (vs Benchmark 21.61%)
+* Annualized Volatility:  8.76% (vs Benchmark 12.35%)
+
+--- Risk-Adjusted Ratios ---
+* Sharpe Ratio:           -1.43 (vs Benchmark 1.27)
+* Max Drawdown:           -10.79% (vs Benchmark -8.88%)
+* Calmar Ratio:           -0.76
+
+--- Trade Activity ---
+* Total Trades:           105
+* Days Invested:          50.7%
+* Daily Win Rate:         47.7%
+======================================================
